@@ -1,0 +1,8 @@
+{
+  "extends": "@antfu",
+  "rules": {
+    "no-console": "off",
+    "antfu/top-level-function": "off",
+    "@typescript-eslint/no-namespace": "off"
+  }
+}
